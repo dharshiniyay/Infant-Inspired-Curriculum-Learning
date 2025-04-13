@@ -32,7 +32,7 @@
     <tr><td><code>README.md</code></td><td>Project description and usage guide.</td></tr>
 </table>
 
-<h2> Model Architecture</h2>
+<h2> 📈Model Architecture</h2>
 <ul>
     <li><strong>Backbone:</strong> ViT-Tiny</li>
     <li><strong>Self-Supervised Pretraining:</strong> Masked Autoencoder (MAE)</li>
@@ -42,7 +42,7 @@
     <li><strong>Optimiser:</strong> AdamW with Cosine Annealing scheduler</li>
 </ul>
 
-<h2> Evaluation</h2>
+<h2> 🧪Evaluation</h2>
 <p>Trained encoders were evaluated using linear probing on:</p>
 <ul>
     <li>Normal images</li>
